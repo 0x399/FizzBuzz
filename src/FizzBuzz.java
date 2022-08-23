@@ -20,7 +20,6 @@ public class FizzBuzz {
             }
         }
         System.out.println(result);
-        System.out.println(result.hashCode());
         return result;
     }
     public static void main(String... args){
